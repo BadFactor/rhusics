@@ -78,6 +78,7 @@ extern crate specs;
 pub mod collide;
 pub mod collide2d;
 pub mod collide3d;
+pub mod physics;
 
 use cgmath::prelude::*;
 
